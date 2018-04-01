@@ -3,6 +3,6 @@
 ! Version: 1
 ! Title: Open GApps
 ! Expires: 180 days
-! Homepage: http://opengapps.org
-@@||opengapps.org/$document
-@@||*.opengapps.org/$document
+! Homepage: http://gapps.knoacc.org
+@@||gapps.knoacc.org/$document
+@@||*.gapps.knoacc.org/$document
